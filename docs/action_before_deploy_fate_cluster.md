@@ -88,6 +88,6 @@ passwd app
 
 ```
 mkdir -pv /data/projects /data/temp /data/logs
-chown -R app:apps /data/projects /data/temp /data/logs
+chown -R app:apps /data/projects /data/temp /data/logs /data
 ```
 
